@@ -1,6 +1,6 @@
 # Description
 
-This is a robot with real-time video streaming and gas detection. The technologies used are Python Flask, Bootstrap and gauge.min.js library.
+This is a robot with real-time video streaming and gas detection. The technologies used are Python Flask, Python OpenCV,  Bootstrap and gauge.min.js library.
 
 The robot can be controlled by mobile, tablet or laptop.
 
