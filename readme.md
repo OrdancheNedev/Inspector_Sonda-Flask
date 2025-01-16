@@ -14,8 +14,8 @@ The robot can be controlled by mobile, tablet or laptop.
 
 ## Tablet user interface 
 
-![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image3.png)
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image3.jpg)
 
 
-![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image4.png)
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image4.jpg)
 
