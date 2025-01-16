@@ -27,3 +27,8 @@ The parts used, are: mq6 sensor, l298h motor drive, esp32, Raspberry pi model 3b
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image6.jpg)
 
 
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image7.jpg)
+
+
+![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Inspector_Sonda-Flask/master/image8.jpg)
+
