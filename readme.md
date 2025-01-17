@@ -34,4 +34,4 @@ The parts used, are: mq6 sensor, l298h motor drive, esp32, Raspberry pi model 3b
 
 # Link to presentation 
 
-![Link Presentation] (https://docs.google.com/presentation/d/1x4c_iGGM7QCxo9N2l4kJ3AGP-teV4nA_dLuL07M6RQw/edit?usp=sharing)
+-[Link Presentation](https://docs.google.com/presentation/d/1x4c_iGGM7QCxo9N2l4kJ3AGP-teV4nA_dLuL07M6RQw/edit?usp=sharing)
